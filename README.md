@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sadra Yousefi</h1>
-<h3 align="center">A talented software engineer from iran !</h3>
+<h3 align="center">Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrayousefi&label=Profile%20views&color=0e75b6&style=flat" alt="sadrayousefi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrayousefi" alt="sadrayousefi" /></a> </p>
 
-- 🔭 I’m currently working on **Financial platform**
+- 🔭 I’m currently working on **My startup**
 
-- 🌱 I’m currently learning **Java spring**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Almost everything :)**
 
 - 👨‍💻 All of my projects are available at [Here](Here)
 
-- 💬 Ask me about **nodejs , typescript , javascript , nestjs , expressjs**
+- 💬 Ask me about **nodejs , typescript , javascript , nestjs , expressjs , next.js , react.js**
 
 - 📫 How to reach me **sadra.mty@gmail.com**
 
