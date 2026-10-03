@@ -1,33 +1,95 @@
-<h1 align="center">Hi 👋, I'm Sadra Yousefi</h1>
-<h3 align="center">Fullstack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrayousefi&label=Profile%20views&color=0e75b6&style=flat" alt="sadrayousefi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrayousefi" alt="sadrayousefi" /></a> </p>
-
-- 🔭 I’m currently working on **My startup**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **Almost everything :)**
-
-- 👨‍💻 All of my projects are available at [Here](Here)
-
-- 💬 Ask me about **nodejs , typescript , javascript , nestjs , expressjs , next.js , react.js**
-
-- 📫 How to reach me **sadra.mty@gmail.com**
-
-- ⚡ Fun fact **Never make a joke about your bugs or they'll make you regret**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sadra-yousefi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadra-yousefi" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/header.svg" alt="Sadra Yousefi — Senior Backend Engineer and Technical Lead" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadra-yousefi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sadra.mty@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/sadrayousefi"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SadraYousefi&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ko-fi.com/majesty0x0f"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/majesty0x0f" /></a></p><br><br>
+## Hey, I'm Sadra 👋
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadrayousefi&show_icons=true&locale=en" alt="sadrayousefi" /></p>
+I'm a **Senior Backend Engineer & Technical Lead** based in Tehran. I turn complex business domains into reliable production systems — from digital health and insurance workflows to financial market data, industrial IoT, and automation platforms.
+
+I stay hands-on with architecture and code while leading cross-functional teams across backend, frontend, AI, and DevOps.
+
+```text
+What I care about:  clear boundaries · resilient services · observable systems · teams that ship
+```
+
+### Impact at a glance
+
+- 🏥 Leading the architecture of a digital health and insurance platform with visits, medical records, payments, and coverage-aware workflows.
+- 👥 Managing a **7-person cross-functional engineering team** while owning backend and DevOps direction.
+- 📈 Built market-data pipelines and candlestick analytics on **PostgreSQL + TimescaleDB** for trading products.
+- 🏭 Developed industrial IoT services, real-time **OPC** communication, and low-code automation workflows.
+- 🚀 Led an internal venture-building initiative that moved a traditional B2B operation toward scalable B2C channels.
+
+## My engineering toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,mongodb,redis,rabbitmq,kafka,docker,nginx,linux,git,gitlab,grafana&perline=7" alt="TypeScript, Node.js, NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka, Docker, Nginx, Linux, Git, GitLab and Grafana" />
+</p>
+
+| Area | I work with |
+| --- | --- |
+| **Backend architecture** | Node.js, NestJS, TypeScript, REST APIs, microservices, API gateways, Clean Architecture, CQRS |
+| **Data systems** | PostgreSQL, TimescaleDB, MongoDB, Redis, TypeORM, Prisma, query optimization, time-series pipelines |
+| **Async & messaging** | RabbitMQ, Kafka, BullMQ, event-driven workflows, background jobs |
+| **Platform & delivery** | Docker, GitLab CI/CD, Nginx, Linux, reverse proxies, monitoring, deployment automation |
+| **Leadership** | Technical strategy, system design, team leadership, product-oriented engineering, cross-functional delivery |
+
+## Selected open-source work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SadraYousefi/docktail">🐳 Docktail</a></h3>
+      <p>A friendly Electron dashboard for following and managing Docker logs without living in the terminal.</p>
+      <p><code>Electron</code> <code>JavaScript</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SadraYousefi/web3-scam-check">🛡️ Web3 Scam Check</a></h3>
+      <p>A browser extension that helps flag suspicious Web3 pages while you browse.</p>
+      <p><code>Browser Extension</code> <code>JavaScript</code> <code>Web3</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SadraYousefi/Devtools-extension">🧰 Devtools Extension</a></h3>
+      <p>A practical browser toolbox that keeps frequently used developer utilities close at hand.</p>
+      <p><code>TypeScript</code> <code>Browser APIs</code> <code>Developer Tools</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 Currently exploring</h3>
+      <p>AI-assisted engineering, production-grade agentic workflows, and better ways to operate distributed systems.</p>
+      <p><code>AI</code> <code>Automation</code> <code>Distributed Systems</code></p>
+    </td>
+  </tr>
+</table>
+
+## Experience snapshot
+
+```text
+2025 — now    Technical Lead              Digital Health & Insurance
+2024 — 2025   Venture Builder / Tech Lead Digital Transformation & E-commerce
+2023 — 2024   Backend Developer           Market Data & Trading Analytics
+2023          Backend Engineer            Industrial IoT & Low-Code Platforms
+2020 — now    Technical Consultant        Backend, Automation & DevOps
+```
+
+## GitHub, in numbers
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SadraYousefi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Sadra's GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=SadraYousefi&theme=tokyonight&hide_border=true" alt="Sadra's GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <b>Building systems that scale — and teams that enjoy shipping them.</b><br />
+  Open to thoughtful conversations about backend architecture, technical leadership, and ambitious products.
+</p>
